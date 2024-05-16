@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/imageprojetcpp/1.png</file>
+        <file>../../Desktop/imageprojetcpp/12544426.gif</file>
+        <file>../../Desktop/imageprojetcpp/12544426.mp4</file>
+        <file>../../Desktop/imageprojetcpp/422640727_294742716946091_7228262628736810692_n.jpg</file>
+        <file>../../Desktop/imageprojetcpp/ajouter.png</file>
+        <file>../../Desktop/imageprojetcpp/ajouter-le-fichier.png</file>
+        <file>../../Desktop/imageprojetcpp/background.png</file>
+        <file>../../Desktop/imageprojetcpp/body-background.png</file>
+        <file>../../Desktop/imageprojetcpp/client (1).png</file>
+        <file>../../Desktop/imageprojetcpp/client.png</file>
+        <file>../../Desktop/imageprojetcpp/coworking.png</file>
+        <file>../../Desktop/imageprojetcpp/crayon.png</file>
+        <file>../../Desktop/imageprojetcpp/des-medias-sociaux1.png</file>
+        <file>../../Desktop/imageprojetcpp/enveloppe1.png</file>
+        <file>../../Desktop/imageprojetcpp/fabrication.png</file>
+        <file>../../Desktop/imageprojetcpp/femme.png</file>
+        <file>../../Desktop/imageprojetcpp/gestion-de-projet.png</file>
+        <file>../../Desktop/imageprojetcpp/graphique.png</file>
+        <file>../../Desktop/imageprojetcpp/la-protection-sociale.png</file>
+        <file>../../Desktop/imageprojetcpp/liste-de-souhaits.png</file>
+        <file>../../Desktop/imageprojetcpp/lobtention-du-diplome (1).png</file>
+        <file>../../Desktop/imageprojetcpp/lobtention-du-diplome.png</file>
+        <file>../../Desktop/imageprojetcpp/logobleu.png</file>
+        <file>../../Desktop/imageprojetcpp/marteau (1).png</file>
+        <file>../../Desktop/imageprojetcpp/marteau.png</file>
+        <file>../../Desktop/imageprojetcpp/parametres1.png</file>
+        <file>../../Desktop/imageprojetcpp/pdf.png</file>
+        <file>../../Desktop/imageprojetcpp/reserve (1).png</file>
+        <file>../../Desktop/imageprojetcpp/reserve.png</file>
+        <file>../../Desktop/imageprojetcpp/statistiques.png</file>
+        <file>../../Desktop/imageprojetcpp/su2039517111260ra4b5d53622351d2962c37c673b90c13d_338_190.jpg</file>
+        <file>../../Desktop/imageprojetcpp/videoframe_1915.png</file>
+        <file>../../Desktop/imageprojetcpp/videoframe_1915-removebg-preview.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/employees.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/equipments.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/image (1).png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/image (2).png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/image (3).png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/image (4).png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/list.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/liste-de-controle.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/project-management (1).png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/salle.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/workshops.png</file>
+        <file>../../Downloads/wetransfer_icons_2024-02-06_1419/icons/clients.png</file>
+    </qresource>
+</RCC>

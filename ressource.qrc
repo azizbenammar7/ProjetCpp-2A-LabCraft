@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/12544426.gif</file>
+        <file>image/12544426.mp4</file>
+        <file>image/422640727_294742716946091_7228262628736810692_n.jpg</file>
+        <file>image/ajouter.png</file>
+        <file>image/ajouter-le-fichier.png</file>
+        <file>image/background.png</file>
+        <file>image/body-background.png</file>
+        <file>image/client (1).png</file>
+        <file>image/client.png</file>
+        <file>image/clients.png</file>
+        <file>image/coworking.png</file>
+        <file>image/crayon.png</file>
+        <file>image/des-medias-sociaux1.png</file>
+        <file>image/employees.png</file>
+        <file>image/enveloppe1.png</file>
+        <file>image/equipments.png</file>
+        <file>image/fabrication.png</file>
+        <file>image/femme.png</file>
+        <file>image/gestion-de-projet.png</file>
+        <file>image/graphique.png</file>
+        <file>image/image (1).png</file>
+        <file>image/image (2).png</file>
+        <file>image/image (3).png</file>
+        <file>image/image (4).png</file>
+        <file>image/la-protection-sociale.png</file>
+        <file>image/list.png</file>
+        <file>image/liste-de-controle.png</file>
+        <file>image/liste-de-souhaits.png</file>
+        <file>image/lobtention-du-diplome (1).png</file>
+        <file>image/lobtention-du-diplome.png</file>
+        <file>image/logobleu.png</file>
+        <file>image/marteau (1).png</file>
+        <file>image/marteau.png</file>
+        <file>image/parametres1.png</file>
+        <file>image/pdf.png</file>
+        <file>image/project-management (1).png</file>
+        <file>image/reserve (1).png</file>
+        <file>image/reserve.png</file>
+        <file>image/salle.png</file>
+        <file>image/statistiques.png</file>
+        <file>image/videoframe_1915.png</file>
+        <file>image/videoframe_1915-removebg-preview.png</file>
+        <file>image/workshops.png</file>
+        <file>image/trash.png</file>
+        <file>image/barre.png</file>
+        <file>image/cercle.png</file>
+        <file>map.qml</file>
+        <file>image/marqueur.png</file>
+    </qresource>
+</RCC>
